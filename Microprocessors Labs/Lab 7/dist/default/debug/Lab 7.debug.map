@@ -1,0 +1,46 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Mon Apr 22 19:31:53 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000028
+.config_2007_LAB_7_BINARYCOUNT.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000017      
+                            0x002007    0x002007      
+            22 out of 1094 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    DELAY   0x00000f    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                    Loop1   0x000011    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                    Loop2   0x000013    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                     Main   0x00000b    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                    START   0x000005    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+               Subroutine   0x00000f    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000005    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                     Main   0x00000b    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                    DELAY   0x00000f    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+               Subroutine   0x00000f    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                    Loop1   0x000011    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+                    Loop2   0x000013    program     static C:\Users\Vincente\Documents\Lab_7_BinaryCount.asm
+
+
