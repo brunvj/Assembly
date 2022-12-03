@@ -1,0 +1,2 @@
+Message[302] C:\USERS\VINCENTE\DOCUMENTS\LAB 3\LAB_3_ADDITION.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\VINCENTE\DOCUMENTS\LAB 3\LAB_3_ADDITION.ASM 52 : Found opcode in column 1. (goto)
