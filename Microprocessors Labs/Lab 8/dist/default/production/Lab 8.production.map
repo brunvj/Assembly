@@ -1,0 +1,50 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Wed Apr 24 11:19:56 2019
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00003a
+.config_2007_LAB8_BINARYCNTSWITCHEDGEDET.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000020      
+                            0x002007    0x002007      
+            31 out of 1094 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    DELAY   0x000016    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                     Loop   0x00000e    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    Loop0   0x000012    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    Loop1   0x000018    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    Loop2   0x00001a    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                     Main   0x00000d    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    START   0x000005    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+               Subroutine   0x000016    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000005    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                     Main   0x00000d    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                     Loop   0x00000e    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    Loop0   0x000012    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    DELAY   0x000016    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+               Subroutine   0x000016    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    Loop1   0x000018    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+                    Loop2   0x00001a    program     static C:\Users\Vincente\Documents\Lab8_BinaryCntSwitchEdgeDet.asm
+
+
